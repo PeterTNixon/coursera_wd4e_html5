@@ -1,0 +1,21 @@
+body {
+	margin: 5;
+	padding: 0;
+	background-color: lightyyellow;
+}
+header {
+	background-color: #8fbc8f;
+}
+section {
+	background-color: honeydew;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 0px;
+  width: 200px;
+}
+footer {
+	background-color: #8fbc8f;
+	
+}
